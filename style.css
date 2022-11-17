@@ -5,7 +5,9 @@ body{
     
 }
 html{
-    scroll-behavior: smooth;
+    scroll-behavior:smooth;
+    
+    
 }
 /*==================Menu==================*/
 
@@ -25,7 +27,7 @@ html{
     max-height: 39rem;
 }
 
-/*===== Imagenes======*/
+/*=============== Imagenes======*/
 
 .img1{
     border-radius: 10px;
@@ -37,7 +39,13 @@ html{
    height: 500px; 
 }
 
-/*===== MAPA======*/
+/*========== COTIZACIÓN==============*/
+
+
+
+
+
+/*============== MAPA============*/
 #local{
     background-color: #f3f3f3;
     padding-bottom: 300px;
@@ -83,8 +91,9 @@ html{
 /*=========CONTACTOS FORMULARIO=========*/
 #contenedor-formulario{
    background-color: #fbfafa;
-   border-radius: 5px;
+   border-radius: 10px;
    max-width: 500px;
+   
 }
 #titulo-formulario{
     color: #3f3f3f
